@@ -63,7 +63,7 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/Anieteam/Aniebots.git`
+`git clone https://github.com/Keshavpoddar878/Aniebots.git`
 - Open Cloned Folder.
 
 `cd ANIEUSERBOT`
